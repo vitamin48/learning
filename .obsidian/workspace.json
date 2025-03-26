@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": " selfedu/Уроки ООП/MD_OOP/16. Магические методы __eq__ и __hash__.md",
+                "file": " selfedu/Уроки ООП/MD_OOP/17. Магический метод __bool__ определения правдивости объектов.py.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Магические методы __eq__ и __hash__"
+              "title": "17. Магический метод __bool__ определения правдивости объектов.py"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "374551b5fc947985",
   "lastOpenFiles": [
-    " selfedu/Уроки ООП/MD_OOP/15. Методы сравнений __eq__, __ne__, __lt__, __gt__ и другие.md",
     " selfedu/Уроки ООП/MD_OOP/16. Магические методы __eq__ и __hash__.md",
+    " selfedu/Уроки ООП/MD_OOP/17. Магический метод __bool__ определения правдивости объектов.py.md",
+    " selfedu/Уроки ООП/MD_OOP/15. Методы сравнений __eq__, __ne__, __lt__, __gt__ и другие.md",
     " selfedu/Уроки ООП/MD_OOP/14 Магические методы __add__, __sub__, __mul__, __truediv__.md",
     " selfedu/Уроки ООП/MD/14 Магические методы __add__, __sub__, __mul__, __truediv__.md",
     " selfedu/Уроки ООП/MD_OOP",
